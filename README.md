@@ -1,0 +1,3 @@
+# amazon_scrapy
+使用scrapy对亚马逊先行爬取类目node_id，存储本地
+然后根据node_ids结合page生成链接，进行商品s详情爬取得
